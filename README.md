@@ -122,6 +122,3 @@ from https://github.com/michaellavelle/spring-social-core-extension.   This appl
 repositories as for the JDBC version from spring-core
 
 
-
-spring-social-hibernate-jpa
-===========================
